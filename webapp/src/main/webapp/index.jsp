@@ -2,5 +2,5 @@
 
 <h2> Deployment is happening through Ansible and moving it to DockerHub </h2>
 
-<h3> AWS & DevOps Traning </h3>
+<h3> AWS & DevOps Traning Tested Just Now</h3>
 
