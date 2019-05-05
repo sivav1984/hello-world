@@ -1,6 +1,6 @@
 <h1> Hello, Welcome Mr.SV - Valaxy Technologies !!! </h1>
 
-<h2> Deplotment is happening through Docker </h2>
+<h2> Deployment is happening through Ansible and moving it to DockerHub </h2>
 
 <h3> AWS & DevOps Traning </h3>
 
